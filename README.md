@@ -14,10 +14,10 @@ A logistics application suite designed for local businesses, comprising a websit
 
 | Component              | Technologies                                                   |
 |------------------------|----------------------------------------------------------------|
-| Frontend (Website)     | React.js, Next.js, Bootstrap/Tailwind CSS                      |
+| Frontend (Website)     | React.js, Next.js, BootstrapTailwind CSS                      |
 | Backend                | Node.js, Express.js, MongoDB or PostgreSQL                     |
-| User App (Mobile)      | React Native or Flutter                                        |
-| Driver App (Mobile)    | React Native or Flutter                                        |
+| User App (Mobile)      | Flutter                                                        |
+| Driver App (Mobile)    | Flutter                                                         |.              
 | Fleet Management       | Web Dashboard with React/Vue + charts (e.g., Chart.js, Highcharts) |
 | Infrastructure         | Dockerized deployment, hosted on AWS/GCP, CI/CD with GitHub Actions |
 | Authentication         | JWT tokens, OAuth 2.0                                          |
